@@ -33,10 +33,10 @@ Here are some of the projects I've worked on. Visit my repositories to see more!
 
 | Project Name | Short Description | Links |
 | :--- | :--- | :---: |
-| **Pusdatin PU Internship Certificate** | A Web 3.0 app for issuing and verifying internship certificates using ReactJS, Hardhat, and NeonDB on the blockchain. | [Repo](https://github.com/IvanYuantama/Sertifikat-Pusdatin-FE) / [Demo](https://sertifikat-pusdatin-fe.vercel.app/) |
-| **Employee Management App** | A web app for employee management and psychometric test analysis, built with React & Laravel. | [Demo](https://manajemen-karyawan-devscale.vercel.app/) |
-| **Face Recognition AI** | A Python and Flask-based web application that recognizes faces in real-time via a webcam and saves the results. | [Repo](https://github.com/IvanYuantama/Face-Recognition-Flask) |
-| **Farm Integrated Monitoring** | An IoT project to improve agricultural efficiency by monitoring field conditions (temperature, humidity, etc.) in real-time. | [Repo](https://github.com/IvanYuantama/FIM-V2) / [Demo](https://fim-v2-pi.vercel.app/) |
+| **Pusdatin PU Internship Certificate** | A Web 3.0 app for issuing and verifying internship certificates using ReactJS, Hardhat, and NeonDB on the blockchain. | [Demo](https://sertifikatmagang-pupr.vercel.app/) |
+| **Employee Management App** | A web app for employee management and psychometric test analysis, built with React & Laravel. | [Repo](https://github.com/IvanYuantama/ManajemenKaryawan) / [Demo](https://manajemen-karyawan-frontend.vercel.app/) |
+| **Face Recognition AI** | A Python and Flask-based web application that recognizes faces in real-time via a webcam and saves the results. | [Repo](https://github.com/IvanYuantama/FaceRecognition) |
+| **Farm Integrated Monitoring** | An IoT project to improve agricultural efficiency by monitoring field conditions (temperature, humidity, etc.) in real-time. | [Repo](https://github.com/IvanYuantama/FarmIntegratedMonitoring) / [Demo](https://fim-two.vercel.app/) |
 | **JBus - Android** | An Android application for renting buses, allowing users to make payments, schedule, and leave reviews. | [Repo](https://github.com/IvanYuantama/JBus-Android) |
 
 ---
