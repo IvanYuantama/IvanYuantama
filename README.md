@@ -50,10 +50,3 @@ Here are some of the projects I've worked on. Visit my repositories to see more!
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanYuantama&theme=dracula" alt="ivan-yuantama-streak" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanYuantama/IvanYuantama/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IvanYuantama/IvanYuantama/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IvanYuantama/IvanYuantama/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/IvanYuantama/IvanYuantama/output/snake.svg" alt="Snake animation" />
