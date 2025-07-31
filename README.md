@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ivan Yuantama Pradipta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer Engineering Student;Always+learning+and+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Always+learning+and+growing" alt="Typing SVG" />
 </p>
 
 
